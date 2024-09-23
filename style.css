@@ -58,6 +58,7 @@ input {
 }
 
 .column {
+  display:flex;
   float: left;
   width: 25%;
   padding: 10px 10px;
